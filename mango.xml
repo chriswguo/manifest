@@ -6,4 +6,6 @@
   <project name="junegunn/fzf"/>
   <project name="wting/autojump"/>
   <project name="MaskRay/ccls"/>
+  <project name="cfig/Android_boot_image_editor.git"/>
+
 </manifest>
