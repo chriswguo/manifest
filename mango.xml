@@ -4,4 +4,6 @@
   <default remote="github" sync-j="4"/>
   
   <project name="junegunn/fzf"/>
+  <project name="wting/autojump"/>
+  <project name="MaskRay/ccls"/>
 </manifest>
