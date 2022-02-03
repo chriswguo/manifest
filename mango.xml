@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="github" fetch="https://github.com/" revision="master"/>
+  <remote name="github" fetch="ssh://git@github.com/" revision="master"/>
   <default remote="github" sync-j="4"/>
   
   <project name="junegunn/fzf"/>
   <project name="wting/autojump"/>
   <project name="MaskRay/ccls"/>
-  <project name="cfig/Android_boot_image_editor.git"/>
+  <project name="cfig/Android_boot_image_editor"/>
+  <project name="chriswguo/bucket"/>
+  <project name="chriswguo/dot_vim"/>
 
 </manifest>
