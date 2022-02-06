@@ -4,10 +4,10 @@
   <default remote="github" sync-j="4"/>
   
   <project name="junegunn/fzf"/>
-  <project name="wting/autojump"/>
   <project name="MaskRay/ccls"/>
   <project name="cfig/Android_boot_image_editor"/>
   <project name="chriswguo/bucket"/>
   <project name="chriswguo/dot_vim"/>
+  <project name="chriswguo/autojump"/>
 
 </manifest>
