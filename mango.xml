@@ -8,6 +8,6 @@
   <project name="cfig/Android_boot_image_editor"/>
   <project name="chriswguo/bucket"/>
   <project name="chriswguo/dot_vim"/>
-  <project name="chriswguo/autojump"/>
+  <project name="chriswguo/autojump" revision="chris/master"/>
 
 </manifest>
