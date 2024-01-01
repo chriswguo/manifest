@@ -25,7 +25,9 @@ Additiona steps before vim can be used properly: <br>
     options during build: <br>
         Do you want to enable fuzzy auto-completion? ([y]/n) -- y <br>
         Do you want to enable key bindings? ([y]/n) -- y <br>
-        Do you want to update your shell configuration files? ([y]/n) -- y <br>
+        Do you want to update your shell configuration files? ([y]/n) -- n <br>
+    Check ~/.fzf.bash and compare if they are the same as what previously copied
+    to ~/bashrc_append.sh
 4. install autojump from local repo: <br>
         cd /d/mango/chriswguo/autojump && ./install <br>
 5. source /d/mango/bucket/my_conf/bashrc_append.sh from ~/.bashrc
